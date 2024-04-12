@@ -1,7 +1,5 @@
 # Tracking-the-NASA-Satellite
 
-# NASA Satellite Tracker
-
 This project aims to track the location of the NASA satellite in real-time using streaming data provided by NASA. The data is obtained from the following endpoint:
 
  **Endpoint:** [http://api.open-notify.org/iss-now.json](http://api.open-notify.org/iss-now.json)
@@ -60,11 +58,4 @@ To track the NASA satellite, follow these steps:
 - The satellite moves quickly, so the graph may show more than half of the map covered with the satellite track.
 - Ensure a stable internet connection to fetch real-time data from the NASA API.
 
-## Contributors
 
-- [Your Name](https://github.com/your_username)
-- [Contributor's Name](https://github.com/contributor_username)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
